@@ -1,4 +1,4 @@
-Necesaario docker e docker-compose
+Necessario docker e docker-compose
 
 Para rodar basta docker-compose up
 
